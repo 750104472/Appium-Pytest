@@ -1,14 +1,4 @@
-"""
-------------------------------------
-@Time : 2019/7/13 20:54
-@Auth : linux超
-@File : base.py
-@IDE  : PyCharm
-@Motto: Real warriors,dare to face the bleak warning,dare to face the incisive error!
-@QQ   : 28174043@qq.com
-@GROUP: 878565760
-------------------------------------
-"""
+
 from selenium import webdriver
 from appium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
@@ -321,7 +311,7 @@ class Base(object):
 #     d = webdriver.Firefox()
 #     b = Base(d)
 #     b.open('https://www.baidu.com')
-#     b.find_element('id', 'kw').send_keys('linux超')
+#     b.find_element('id', 'kw').send_keys('lin')
 #     b.find_element('id', 'su').click()
 #     b.find_elements('xpath', '//a[@class="c-showurl"]')[0].click()
 #     b.switch_to_window()

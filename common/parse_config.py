@@ -1,14 +1,4 @@
-"""
-------------------------------------
-@Time : 2019/7/13 19:57
-@Auth : linux超
-@File : parse_config.py
-@IDE  : PyCharm
-@Motto: Real warriors,dare to face the bleak warning,dare to face the incisive error!
-@QQ   : 28174043@qq.com
-@GROUP: 878565760
-------------------------------------
-"""
+
 
 from configparser import (
     ConfigParser,

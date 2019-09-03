@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6377098-9306-424e-be30-d71a60ccc484" name="Default Changelist" comment="" />
+    <list default="true" id="a6377098-9306-424e-be30-d71a60ccc484" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/cases/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/create_dirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/create_dirs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/parse_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/parse_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/record_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/record_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/datas/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/login_datas.py" beforeDir="false" afterPath="$PROJECT_DIR$/datas/login_datas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/img/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/base/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/base/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/locator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/locator/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/loginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/modelplatesPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/modelplatesPage.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="120">
+              <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding>
                 <element signature="e#285#298#0" expanded="true" />
               </folding>
@@ -30,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/pages/base/base.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="e#281#311#0" expanded="true" />
               </folding>
@@ -42,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/pages/loginPage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="193">
-              <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
               <folding>
                 <element signature="e#286#318#0" expanded="true" />
               </folding>
@@ -63,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/cases/test_login.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="265">
-              <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding>
                 <element signature="e#287#300#0" expanded="true" />
               </folding>
@@ -75,18 +92,14 @@
         <entry file="file://$PROJECT_DIR$/log/2019-09-03testing.log">
           <provider selected="true" editor-type-id="LogFileEditorProvider">
             <state relative-caret-position="365">
-              <caret line="368" column="86" lean-forward="true" selection-start-line="368" selection-start-column="86" selection-end-line="368" selection-end-column="86" />
+              <caret line="368" column="86" selection-start-line="368" selection-start-column="86" selection-end-line="368" selection-end-column="86" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datas/login_datas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -114,19 +127,32 @@
       <find>alert</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/cases/conftest.py" />
         <option value="$PROJECT_DIR$/config/app_config.py" />
-        <option value="$PROJECT_DIR$/config/config.py" />
-        <option value="$PROJECT_DIR$/datas/login_datas.py" />
         <option value="$PROJECT_DIR$/pytest.ini" />
         <option value="$PROJECT_DIR$/pages/locator/locator.ini" />
+        <option value="$PROJECT_DIR$/datas/__init__.py" />
+        <option value="$PROJECT_DIR$/config/__init__.py" />
+        <option value="$PROJECT_DIR$/config/config.py" />
+        <option value="$PROJECT_DIR$/common/parse_config.py" />
+        <option value="$PROJECT_DIR$/common/create_dirs.py" />
+        <option value="$PROJECT_DIR$/common/record_log.py" />
+        <option value="$PROJECT_DIR$/pages/modelplatesPage.py" />
         <option value="$PROJECT_DIR$/pages/loginPage.py" />
-        <option value="$PROJECT_DIR$/pages/base/base.py" />
-        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/pages/__init__.py" />
+        <option value="$PROJECT_DIR$/pages/locator/__init__.py" />
         <option value="$PROJECT_DIR$/cases/test_login.py" />
+        <option value="$PROJECT_DIR$/pages/base/__init__.py" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/pages/base/base.py" />
+        <option value="$PROJECT_DIR$/img/__init__.py" />
+        <option value="$PROJECT_DIR$/datas/login_datas.py" />
       </list>
     </option>
   </component>
@@ -136,6 +162,7 @@
     <option name="width" value="1609" />
     <option name="height" value="985" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -270,7 +297,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567408058847</updated>
       <workItem from="1567408060118" duration="6748000" />
-      <workItem from="1567497332831" duration="12982000" />
+      <workItem from="1567497332831" duration="13275000" />
     </task>
     <servers />
   </component>
@@ -280,11 +307,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19730000" />
+    <option name="totallyTimeSpent" value="20023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-36" y="65" width="1609" height="985" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2527122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -433,7 +459,7 @@
     <entry file="file://$PROJECT_DIR$/pages/base/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="e#281#311#0" expanded="true" />
           </folding>
@@ -443,7 +469,7 @@
     <entry file="file://$PROJECT_DIR$/log/2019-09-03testing.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider">
         <state relative-caret-position="365">
-          <caret line="368" column="86" lean-forward="true" selection-start-line="368" selection-start-column="86" selection-end-line="368" selection-end-column="86" />
+          <caret line="368" column="86" selection-start-line="368" selection-start-column="86" selection-end-line="368" selection-end-column="86" />
         </state>
       </provider>
     </entry>
@@ -455,16 +481,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datas/login_datas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/cases/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
-          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding>
             <element signature="e#287#300#0" expanded="true" />
           </folding>
@@ -474,7 +496,7 @@
     <entry file="file://$PROJECT_DIR$/pages/loginPage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
-          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
           <folding>
             <element signature="e#286#318#0" expanded="true" />
           </folding>
@@ -483,8 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="120">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding>
             <element signature="e#285#298#0" expanded="true" />
           </folding>

@@ -1,14 +1,4 @@
-"""
-------------------------------------
-@Time : 2019/7/14 19:51
-@Auth : linux超
-@File : record_log.py
-@IDE  : PyCharm
-@Motto: Real warriors,dare to face the bleak warning,dare to face the incisive error!
-@QQ   : 28174043@qq.com
-@GROUP: 878565760
-------------------------------------
-"""
+
 import logging
 from logging.handlers import RotatingFileHandler
 
